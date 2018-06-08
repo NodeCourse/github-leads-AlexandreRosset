@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/NodeCourse/github-leads-AlexandreRosset/issues"
   },
-  "homepage": "https://github.com/NodeCourse/github-leads-AlexandreRosset#readme"
+  "homepage": "https://github.com/NodeCourse/github-leads-AlexandreRosset#readme",
+  "dependencies": {
+    "@octokit/rest": "^15.8.1",
+    "commander": "^2.15.1",
+    "csv-stringify": "^3.0.0",
+    "flatten": "^1.0.2",
+    "octokit": "^1.0.0-hello-world",
+    "path": "^0.12.7"
+  }
 }
